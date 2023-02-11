@@ -2,7 +2,7 @@ Hi there My name Wallace Pinheiro 👋
 
 I'm a self learned Full-Stack engineer with about 3 years of experience, transitioning to Web3 technologies and languages like solidity.
 
-Thanks for your visit! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Thanks for your visit! ![visitors](https://visitor-badge.glitch.me/badge?page_id=wallaceSip.wallaceSip)
 
 - 🔭 I’m currently working on WEB3 Projects
 - 🌱 I’m currently learning React.js , GraphQL
